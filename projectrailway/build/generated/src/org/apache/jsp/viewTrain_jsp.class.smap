@@ -1,0 +1,18 @@
+SMAP
+viewTrain_jsp.java
+JSP
+*S JSP
+*F
++ 0 viewTrain.jsp
+viewTrain.jsp
+*L
+1,39:46
+40,10:86
+49,3:96
+52,8:100
+59:108
+60,6:109,3
+66,4:127
+70,2:132
+71,90:134
+*E

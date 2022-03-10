@@ -1,0 +1,18 @@
+SMAP
+adminaddtrain_jsp.java
+JSP
+*S JSP
+*F
++ 0 adminaddtrain.jsp
+adminaddtrain.jsp
+*L
+1,89:46
+90,10:136
+99,3:146
+102,5:150
+106:155
+107,3:156,3
+110,3:165
+113,2:169
+114,14:171
+*E
